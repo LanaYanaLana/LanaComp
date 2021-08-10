@@ -1,0 +1,13 @@
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.exe
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.deps.json
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.runtimeconfig.json
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.runtimeconfig.dev.json
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.dll
+D:\Yana\LanaComp\LanaComp\LanaComp\bin\Debug\netcoreapp3.1\LanaComp.pdb
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.csprojAssemblyReference.cache
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.AssemblyInfoInputs.cache
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.AssemblyInfo.cs
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.csproj.CoreCompileInputs.cache
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.dll
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.pdb
+D:\Yana\LanaComp\LanaComp\LanaComp\obj\Debug\netcoreapp3.1\LanaComp.genruntimeconfig.cache

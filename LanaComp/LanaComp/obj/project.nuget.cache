@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRM1BLRv+tQDxRxHJ//9Y/SNPAXcR4HxqCESJe1iRhAsbXDcTZMlPss96Dlz8VsdhzsAfZYn9/9cMwS/vDmRzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Yana\\LanaComp\\LanaComp\\LanaComp\\LanaComp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wout Ongena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
